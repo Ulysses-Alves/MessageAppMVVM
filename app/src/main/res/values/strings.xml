@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="holder" translatable="false">placeholder</string>
+    <string name="holder_long" translatable="false">This is random text for testing short strings.</string>
+    <string name="holder_longer" translatable="false">This is random text for testing short strings.This is the longer version, may still be too short for this.</string>
+
+    <string name="add_new_message">New Message</string>
+    <string name="change_language_ptbr">Change Language to Portuguese</string>
+    <string name="change_language_en">Change Language to English</string>
+
+    <string name="delete_btn">Delete Message</string>
+    <string name="edit_btn">Edit Message</string>
+
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="create">Create</string>
+
+</resources>

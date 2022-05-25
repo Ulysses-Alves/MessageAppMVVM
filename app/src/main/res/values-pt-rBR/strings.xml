@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="add_new_message">Nova Mensagem</string>
+    <string name="change_language_ptbr">Mudar a língua para Português</string>
+    <string name="change_language_en">Mudar a língua para Inglês</string>
+    <string name="delete_btn">Deletar Mensagem</string>
+    <string name="edit_btn">Editar Mensagem</string>
+    <string name="title">Titulo</string>
+    <string name="message">Mensagem</string>
+    <string name="cancel">Cancelar</string>
+    <string name="create">Criar</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MessageApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/background_color_dark</item>
+    </style>
+
+    <style name="DeleteButton" parent="Widget.AppCompat.ImageButton">
+    <item name="backgroundTint">@color/primary_color</item>
+    </style>
+
+    <style name="Divider">
+        <item name="dividerColor">@color/primary_color</item>
+    </style>
+
+    <style name="myCardView">
+        <item name="cardBackgroundColor">@color/primary_color</item>
+        <item name="android:background">@color/primary_color</item>
+    </style>
+
+    <style name="myTextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/primary_color</item>
+    </style>
+
+</resources>
